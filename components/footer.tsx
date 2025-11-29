@@ -63,7 +63,7 @@ const socialLinks: SocialLink[] = [
   {
     name: "LinkedIn",
     icon: Linkedin,
-    url: "https://linkedin.com/in/astronutcase",
+    url: "https://linkedin.com/company/astronutcase",
     username: "astronutcase",
     isSimpleIcon: false,
   },

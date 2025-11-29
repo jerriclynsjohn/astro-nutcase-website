@@ -4,7 +4,7 @@ import type React from "react"
 
 import { useState, useRef } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Mail, CheckCircle2, AlertCircle, Loader2, ArrowRight } from "lucide-react"
+import { Mail, CheckCircle2, AlertCircle, Loader2 } from "lucide-react"
 import { subscribeEmail } from "@/app/actions/subscribe"
 
 type Status = "idle" | "loading" | "success" | "error"
